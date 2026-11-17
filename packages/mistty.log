@@ -1,0 +1,56 @@
+
+ • Building package mistty
+From https://github.com/szermatt/mistty
+Updating /mnt/store/melpa/working/mistty/
+Checking out 8c71878159c75eacc9399be3d822d7d4b7c88724
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/mistty/
+  to /tmp/mistty-6PbLfX/mistty-20261107.852/
+    mistty-accum-macros.el -> mistty-accum-macros.el
+    mistty-accum.el -> mistty-accum.el
+    mistty-alacritty.el -> mistty-alacritty.el
+    mistty-changeset.el -> mistty-changeset.el
+    mistty-install.el -> mistty-install.el
+    mistty-kbd.el -> mistty-kbd.el
+    mistty-launch.el -> mistty-launch.el
+    mistty-log.el -> mistty-log.el
+    mistty-osc-colors.el -> mistty-osc-colors.el
+    mistty-osc7.el -> mistty-osc7.el
+    mistty-project.el -> mistty-project.el
+    mistty-queue.el -> mistty-queue.el
+    mistty-scrolline.el -> mistty-scrolline.el
+    mistty-term-alacritty.el -> mistty-term-alacritty.el
+    mistty-term-base.el -> mistty-term-base.el
+    mistty-term-eterm.el -> mistty-term-eterm.el
+    mistty-term.el -> mistty-term.el
+    mistty-undo.el -> mistty-undo.el
+    mistty-util.el -> mistty-util.el
+    mistty.el -> mistty.el
+    mistty.texi -> mistty.texi
+Generating mistty.info
+Created mistty-20261107.852.tar containing:
+  mistty-20261107.852/
+  mistty-20261107.852/dir
+  mistty-20261107.852/mistty-accum-macros.el
+  mistty-20261107.852/mistty-accum.el
+  mistty-20261107.852/mistty-alacritty.el
+  mistty-20261107.852/mistty-changeset.el
+  mistty-20261107.852/mistty-install.el
+  mistty-20261107.852/mistty-kbd.el
+  mistty-20261107.852/mistty-launch.el
+  mistty-20261107.852/mistty-log.el
+  mistty-20261107.852/mistty-osc-colors.el
+  mistty-20261107.852/mistty-osc7.el
+  mistty-20261107.852/mistty-pkg.el
+  mistty-20261107.852/mistty-project.el
+  mistty-20261107.852/mistty-queue.el
+  mistty-20261107.852/mistty-scrolline.el
+  mistty-20261107.852/mistty-term-alacritty.el
+  mistty-20261107.852/mistty-term-base.el
+  mistty-20261107.852/mistty-term-eterm.el
+  mistty-20261107.852/mistty-term.el
+  mistty-20261107.852/mistty-undo.el
+  mistty-20261107.852/mistty-util.el
+  mistty-20261107.852/mistty.el
+  mistty-20261107.852/mistty.info
+Built mistty in 8.262s, finished at 2026-11-17T04:04:43+0000

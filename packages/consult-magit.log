@@ -1,0 +1,14 @@
+
+ • Building package consult-magit
+From https://github.com/nhojb/consult-magit
+Updating /mnt/store/melpa/working/consult-magit/
+Checking out 8d030b9927b7e6c3b08066380dfaa9ea5c19026e
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/consult-magit/
+  to /tmp/consult-magit-c4e25A/consult-magit-20260827.1333/
+    consult-magit.el -> consult-magit.el
+Created consult-magit-20260827.1333.tar containing:
+  consult-magit-20260827.1333/
+  consult-magit-20260827.1333/consult-magit-pkg.el
+  consult-magit-20260827.1333/consult-magit.el
+Built consult-magit in 4.451s, finished at 2026-11-17T03:27:42+0000

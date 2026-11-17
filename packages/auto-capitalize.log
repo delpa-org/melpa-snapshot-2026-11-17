@@ -1,0 +1,22 @@
+
+ • Building package auto-capitalize
+From https://github.com/abdulnafe-t/auto-capitalize.el
+Updating /mnt/store/melpa/working/auto-capitalize/
+Checking out d1e9bb2b384c390c54c96ebdbbc19b57fc5e3abb
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/auto-capitalize/
+  to /tmp/auto-capitalize-mHrVwN/auto-capitalize-20261101.1114/
+    auto-capitalize-org.el -> auto-capitalize-org.el
+    auto-capitalize-sgml.el -> auto-capitalize-sgml.el
+    auto-capitalize-tex.el -> auto-capitalize-tex.el
+    auto-capitalize-xml.el -> auto-capitalize-xml.el
+    auto-capitalize.el -> auto-capitalize.el
+Created auto-capitalize-20261101.1114.tar containing:
+  auto-capitalize-20261101.1114/
+  auto-capitalize-20261101.1114/auto-capitalize-org.el
+  auto-capitalize-20261101.1114/auto-capitalize-pkg.el
+  auto-capitalize-20261101.1114/auto-capitalize-sgml.el
+  auto-capitalize-20261101.1114/auto-capitalize-tex.el
+  auto-capitalize-20261101.1114/auto-capitalize-xml.el
+  auto-capitalize-20261101.1114/auto-capitalize.el
+Built auto-capitalize in 3.871s, finished at 2026-11-17T03:18:37+0000

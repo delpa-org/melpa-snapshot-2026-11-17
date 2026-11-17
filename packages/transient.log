@@ -1,0 +1,21 @@
+
+ • Building package transient
+From https://github.com/magit/transient
+Updating /mnt/store/melpa/working/transient/
+Checking out 93423bb0c97aea87d49c50676ee63d1e5817c787
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/transient/
+  to /tmp/transient-rEzx7D/transient-20261113.1458/
+  ! lisp/transient.el -> transient.el
+  ! docs/gpl.texi -> gpl.texi
+  ! docs/transient.texi -> transient.texi
+Generating gpl.info
+Generating transient.info
+Created transient-20261113.1458.tar containing:
+  transient-20261113.1458/
+  transient-20261113.1458/dir
+  transient-20261113.1458/gpl.info
+  transient-20261113.1458/transient-pkg.el
+  transient-20261113.1458/transient.el
+  transient-20261113.1458/transient.info
+Built transient in 8.893s, finished at 2026-11-17T04:33:35+0000

@@ -1,0 +1,26 @@
+
+ • Building package mpdel
+From https://github.com/mpdel/mpdel
+Updating /mnt/store/melpa/working/mpdel/
+Checking out 863c884f02c93b5cb1fcce079112c8d7e9705d8b
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/mpdel/
+  to /tmp/mpdel-bdqlOJ/mpdel-20261023.730/
+    mpdel-browser.el -> mpdel-browser.el
+    mpdel-core.el -> mpdel-core.el
+    mpdel-playlist.el -> mpdel-playlist.el
+    mpdel-song.el -> mpdel-song.el
+    mpdel-tablist.el -> mpdel-tablist.el
+    mpdel-transient.el -> mpdel-transient.el
+    mpdel.el -> mpdel.el
+Created mpdel-20261023.730.tar containing:
+  mpdel-20261023.730/
+  mpdel-20261023.730/mpdel-browser.el
+  mpdel-20261023.730/mpdel-core.el
+  mpdel-20261023.730/mpdel-pkg.el
+  mpdel-20261023.730/mpdel-playlist.el
+  mpdel-20261023.730/mpdel-song.el
+  mpdel-20261023.730/mpdel-tablist.el
+  mpdel-20261023.730/mpdel-transient.el
+  mpdel-20261023.730/mpdel.el
+Built mpdel in 3.763s, finished at 2026-11-17T04:05:37+0000

@@ -1,0 +1,20 @@
+
+ • Building package expenses
+From https://github.com/md-arif-shaikh/expenses
+Updating /mnt/store/melpa/working/expenses/
+Checking out 716024ef83753df0723e9b20d574e368d01476fb
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/expenses/
+  to /tmp/expenses-Uj6vc3/expenses-20261016.518/
+    expenses-dashboard.el -> expenses-dashboard.el
+    expenses-transient.el -> expenses-transient.el
+    expenses-utils.el -> expenses-utils.el
+    expenses.el -> expenses.el
+Created expenses-20261016.518.tar containing:
+  expenses-20261016.518/
+  expenses-20261016.518/expenses-dashboard.el
+  expenses-20261016.518/expenses-pkg.el
+  expenses-20261016.518/expenses-transient.el
+  expenses-20261016.518/expenses-utils.el
+  expenses-20261016.518/expenses.el
+Built expenses in 5.457s, finished at 2026-11-17T03:39:57+0000

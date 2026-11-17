@@ -1,0 +1,68 @@
+
+ • Building package fontsloth
+From https://github.com/jollm/fontsloth
+Updating /mnt/store/melpa/working/fontsloth/
+Checking out 3f04b58f1696df5472b4d036b4dd1c4a52bb119f
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/fontsloth/
+  to /tmp/fontsloth-5Cxu8k/fontsloth-20261114.1352/
+    fontsloth--common-types.el -> fontsloth--common-types.el
+    fontsloth-bbox.el -> fontsloth-bbox.el
+    fontsloth-cache.el -> fontsloth-cache.el
+    fontsloth-coords.el -> fontsloth-coords.el
+    fontsloth-geometry.el -> fontsloth-geometry.el
+    fontsloth-glyph.el -> fontsloth-glyph.el
+    fontsloth-layout-lb-tables.el -> fontsloth-layout-lb-tables.el
+    fontsloth-layout-linebreak.el -> fontsloth-layout-linebreak.el
+    fontsloth-layout.el -> fontsloth-layout.el
+    fontsloth-line.el -> fontsloth-line.el
+    fontsloth-log.el -> fontsloth-log.el
+    fontsloth-otf--mac-names.el -> fontsloth-otf--mac-names.el
+    fontsloth-otf-.el -> fontsloth-otf-.el
+    fontsloth-otf-cff-dict.el -> fontsloth-otf-cff-dict.el
+    fontsloth-otf-cff.el -> fontsloth-otf-cff.el
+    fontsloth-otf-cff2.el -> fontsloth-otf-cff2.el
+    fontsloth-otf-glyf.el -> fontsloth-otf-glyf.el
+    fontsloth-otf-gvar.el -> fontsloth-otf-gvar.el
+    fontsloth-otf-hvar.el -> fontsloth-otf-hvar.el
+    fontsloth-otf-kern.el -> fontsloth-otf-kern.el
+    fontsloth-otf-typo.el -> fontsloth-otf-typo.el
+    fontsloth-otf-var.el -> fontsloth-otf-var.el
+    fontsloth-otf.el -> fontsloth-otf.el
+    fontsloth-point.el -> fontsloth-point.el
+    fontsloth-raster.el -> fontsloth-raster.el
+    fontsloth-test-util.el -> fontsloth-test-util.el
+    fontsloth-woff.el -> fontsloth-woff.el
+    fontsloth.el -> fontsloth.el
+Created fontsloth-20261114.1352.tar containing:
+  fontsloth-20261114.1352/
+  fontsloth-20261114.1352/fontsloth--common-types.el
+  fontsloth-20261114.1352/fontsloth-bbox.el
+  fontsloth-20261114.1352/fontsloth-cache.el
+  fontsloth-20261114.1352/fontsloth-coords.el
+  fontsloth-20261114.1352/fontsloth-geometry.el
+  fontsloth-20261114.1352/fontsloth-glyph.el
+  fontsloth-20261114.1352/fontsloth-layout-lb-tables.el
+  fontsloth-20261114.1352/fontsloth-layout-linebreak.el
+  fontsloth-20261114.1352/fontsloth-layout.el
+  fontsloth-20261114.1352/fontsloth-line.el
+  fontsloth-20261114.1352/fontsloth-log.el
+  fontsloth-20261114.1352/fontsloth-otf--mac-names.el
+  fontsloth-20261114.1352/fontsloth-otf-.el
+  fontsloth-20261114.1352/fontsloth-otf-cff-dict.el
+  fontsloth-20261114.1352/fontsloth-otf-cff.el
+  fontsloth-20261114.1352/fontsloth-otf-cff2.el
+  fontsloth-20261114.1352/fontsloth-otf-glyf.el
+  fontsloth-20261114.1352/fontsloth-otf-gvar.el
+  fontsloth-20261114.1352/fontsloth-otf-hvar.el
+  fontsloth-20261114.1352/fontsloth-otf-kern.el
+  fontsloth-20261114.1352/fontsloth-otf-typo.el
+  fontsloth-20261114.1352/fontsloth-otf-var.el
+  fontsloth-20261114.1352/fontsloth-otf.el
+  fontsloth-20261114.1352/fontsloth-pkg.el
+  fontsloth-20261114.1352/fontsloth-point.el
+  fontsloth-20261114.1352/fontsloth-raster.el
+  fontsloth-20261114.1352/fontsloth-test-util.el
+  fontsloth-20261114.1352/fontsloth-woff.el
+  fontsloth-20261114.1352/fontsloth.el
+Built fontsloth in 3.410s, finished at 2026-11-17T03:44:28+0000

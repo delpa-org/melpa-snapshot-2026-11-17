@@ -1,0 +1,26 @@
+
+ • Building package eglotx
+From https://github.com/cxa/eglotx
+Updating /mnt/store/melpa/working/eglotx/
+Checking out 1c4dc8a5dad33b001c4474878b5eaa011e79451e
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/eglotx/
+  to /tmp/eglotx-Q0BHgn/eglotx-20261031.203/
+    eglotx-eglot.el -> eglotx-eglot.el
+    eglotx-preset-engine.el -> eglotx-preset-engine.el
+    eglotx-presets-go.el -> eglotx-presets-go.el
+    eglotx-presets-python.el -> eglotx-presets-python.el
+    eglotx-presets-ruby.el -> eglotx-presets-ruby.el
+    eglotx-presets.el -> eglotx-presets.el
+    eglotx.el -> eglotx.el
+Created eglotx-20261031.203.tar containing:
+  eglotx-20261031.203/
+  eglotx-20261031.203/eglotx-eglot.el
+  eglotx-20261031.203/eglotx-pkg.el
+  eglotx-20261031.203/eglotx-preset-engine.el
+  eglotx-20261031.203/eglotx-presets-go.el
+  eglotx-20261031.203/eglotx-presets-python.el
+  eglotx-20261031.203/eglotx-presets-ruby.el
+  eglotx-20261031.203/eglotx-presets.el
+  eglotx-20261031.203/eglotx.el
+Built eglotx in 3.072s, finished at 2026-11-17T03:34:44+0000

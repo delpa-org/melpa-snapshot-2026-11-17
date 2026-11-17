@@ -1,0 +1,14 @@
+
+ • Building package elysium
+From https://github.com/lanceberge/elysium
+Updating /mnt/store/melpa/working/elysium/
+Checking out 049ad3091baf3ce578791187c5e5e4f932c26044
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/elysium/
+  to /tmp/elysium-nWp8HG/elysium-20250406.1638/
+    elysium.el -> elysium.el
+Created elysium-20250406.1638.tar containing:
+  elysium-20250406.1638/
+  elysium-20250406.1638/elysium-pkg.el
+  elysium-20250406.1638/elysium.el
+Built elysium in 3.105s, finished at 2026-11-17T03:36:17+0000

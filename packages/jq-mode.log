@@ -1,0 +1,16 @@
+
+ • Building package jq-mode
+From https://github.com/ljos/jq-mode
+Updating /mnt/store/melpa/working/jq-mode/
+Checking out 558f2af06c34f12c52097f8db746169c28c35484
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/jq-mode/
+  to /tmp/jq-mode-bf6nID/jq-mode-20260821.1006/
+    jq-mode.el -> jq-mode.el
+    ob-jq.el -> ob-jq.el
+Created jq-mode-20260821.1006.tar containing:
+  jq-mode-20260821.1006/
+  jq-mode-20260821.1006/jq-mode-pkg.el
+  jq-mode-20260821.1006/jq-mode.el
+  jq-mode-20260821.1006/ob-jq.el
+Built jq-mode in 3.181s, finished at 2026-11-17T03:56:37+0000

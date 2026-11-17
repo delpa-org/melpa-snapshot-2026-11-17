@@ -1,0 +1,24 @@
+
+ • Building package org-link-beautify
+From https://repo.or.cz/org-link-beautify.git
+Updating /mnt/store/melpa/working/org-link-beautify/
+Checking out 6017a6d38482b94bd4e77214e407b5fe1a3f178f
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-link-beautify/
+  to /tmp/org-link-beautify-UeajTI/org-link-beautify-20261108.1326/
+    org-link-beautify-new.el -> org-link-beautify-new.el
+    org-link-beautify-old.el -> org-link-beautify-old.el
+    org-link-beautify.el -> org-link-beautify.el
+    scripts => scripts
+Created org-link-beautify-20261108.1326.tar containing:
+  org-link-beautify-20261108.1326/
+  org-link-beautify-20261108.1326/org-link-beautify-new.el
+  org-link-beautify-20261108.1326/org-link-beautify-old.el
+  org-link-beautify-20261108.1326/org-link-beautify-pkg.el
+  org-link-beautify-20261108.1326/org-link-beautify.el
+  org-link-beautify-20261108.1326/scripts/
+  org-link-beautify-20261108.1326/scripts/action-converter-txt-to-epub.py
+  org-link-beautify-20261108.1326/scripts/thumbnailer-epub.py
+  org-link-beautify-20261108.1326/scripts/thumbnailer-video.py
+  org-link-beautify-20261108.1326/scripts/thumbnailer.py
+Built org-link-beautify in 4.524s, finished at 2026-11-17T04:12:11+0000

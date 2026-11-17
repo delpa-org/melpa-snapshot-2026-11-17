@@ -1,0 +1,14 @@
+
+ • Building package ol-notmuch
+From https://github.com/tarsius/ol-notmuch
+Updating /mnt/store/melpa/working/ol-notmuch/
+Checking out 679e2672d920253f08ac1a7a27f812725b3dac22
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ol-notmuch/
+  to /tmp/ol-notmuch-OtH5uQ/ol-notmuch-20261001.1604/
+    ol-notmuch.el -> ol-notmuch.el
+Created ol-notmuch-20261001.1604.tar containing:
+  ol-notmuch-20261001.1604/
+  ol-notmuch-20261001.1604/ol-notmuch-pkg.el
+  ol-notmuch-20261001.1604/ol-notmuch.el
+Built ol-notmuch in 4.788s, finished at 2026-11-17T04:10:08+0000

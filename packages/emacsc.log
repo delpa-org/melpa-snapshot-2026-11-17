@@ -1,0 +1,22 @@
+
+ • Building package emacsc
+From https://github.com/knu/emacsc
+Updating /mnt/store/melpa/working/emacsc/
+Checking out ee29327b6f4617fbd68e49ea91f9d4bfc9d65225
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/emacsc/
+  to /tmp/emacsc-mCCyYI/emacsc-20261025.706/
+  ! lisp/emacsc.el -> emacsc.el
+    bin => bin
+Created emacsc-20261025.706.tar containing:
+  emacsc-20261025.706/
+  emacsc-20261025.706/bin/
+  emacsc-20261025.706/bin/dired
+  emacsc-20261025.706/bin/ediff
+  emacsc-20261025.706/bin/ediff-merge
+  emacsc-20261025.706/bin/emacsc
+  emacsc-20261025.706/bin/evil
+  emacsc-20261025.706/bin/magit
+  emacsc-20261025.706/emacsc-pkg.el
+  emacsc-20261025.706/emacsc.el
+Built emacsc in 4.082s, finished at 2026-11-17T03:36:19+0000

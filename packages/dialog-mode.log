@@ -1,0 +1,18 @@
+
+ • Building package dialog-mode
+From https://git.sr.ht/~mew/dialog-mode
+Updating /mnt/store/melpa/working/dialog-mode/
+Checking out a330024de229de95edc658b3f2aa9874f1f616bc
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/dialog-mode/
+  to /tmp/dialog-mode-aF3FMy/dialog-mode-20261110.2245/
+  ! doc/dialog-mode.texi -> dialog-mode.texi
+    dialog-mode.el -> dialog-mode.el
+Generating dialog-mode.info
+Created dialog-mode-20261110.2245.tar containing:
+  dialog-mode-20261110.2245/
+  dialog-mode-20261110.2245/dialog-mode-pkg.el
+  dialog-mode-20261110.2245/dialog-mode.el
+  dialog-mode-20261110.2245/dialog-mode.info
+  dialog-mode-20261110.2245/dir
+Built dialog-mode in 6.572s, finished at 2026-11-17T03:30:44+0000

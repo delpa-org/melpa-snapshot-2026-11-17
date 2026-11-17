@@ -1,0 +1,18 @@
+
+ • Building package evil-god-toggle
+From https://github.com/jam1015/evil-god-toggle
+Updating /mnt/store/melpa/working/evil-god-toggle/
+Checking out 4102e67bb9fadd4fd20fffedb5415b50f9b66b40
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/evil-god-toggle/
+  to /tmp/evil-god-toggle-g940MT/evil-god-toggle-20261105.1522/
+    evil-god-toggle.el -> evil-god-toggle.el
+    evil-god-toggle.texi -> evil-god-toggle.texi
+Generating evil-god-toggle.info
+Created evil-god-toggle-20261105.1522.tar containing:
+  evil-god-toggle-20261105.1522/
+  evil-god-toggle-20261105.1522/dir
+  evil-god-toggle-20261105.1522/evil-god-toggle-pkg.el
+  evil-god-toggle-20261105.1522/evil-god-toggle.el
+  evil-god-toggle-20261105.1522/evil-god-toggle.info
+Built evil-god-toggle in 5.224s, finished at 2026-11-17T03:38:34+0000

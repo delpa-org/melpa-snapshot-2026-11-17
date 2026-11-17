@@ -1,0 +1,36 @@
+
+ • Building package docker
+From https://github.com/Silex/docker.el
+Updating /mnt/store/melpa/working/docker/
+Checking out 58a812d8f14b8dc3830a914740dedac50b70bc6c
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/docker/
+  to /tmp/docker-rwJjiQ/docker-20261016.805/
+    docker-compose.el -> docker-compose.el
+    docker-container.el -> docker-container.el
+    docker-context.el -> docker-context.el
+    docker-core.el -> docker-core.el
+    docker-faces.el -> docker-faces.el
+    docker-group.el -> docker-group.el
+    docker-image.el -> docker-image.el
+    docker-network.el -> docker-network.el
+    docker-process.el -> docker-process.el
+    docker-utils.el -> docker-utils.el
+    docker-volume.el -> docker-volume.el
+    docker.el -> docker.el
+Created docker-20261016.805.tar containing:
+  docker-20261016.805/
+  docker-20261016.805/docker-compose.el
+  docker-20261016.805/docker-container.el
+  docker-20261016.805/docker-context.el
+  docker-20261016.805/docker-core.el
+  docker-20261016.805/docker-faces.el
+  docker-20261016.805/docker-group.el
+  docker-20261016.805/docker-image.el
+  docker-20261016.805/docker-network.el
+  docker-20261016.805/docker-pkg.el
+  docker-20261016.805/docker-process.el
+  docker-20261016.805/docker-utils.el
+  docker-20261016.805/docker-volume.el
+  docker-20261016.805/docker.el
+Built docker in 4.330s, finished at 2026-11-17T03:32:10+0000

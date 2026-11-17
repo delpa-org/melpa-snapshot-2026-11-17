@@ -1,0 +1,35 @@
+
+ • Building package ebib
+From https://github.com/joostkremers/ebib
+Updating /mnt/store/melpa/working/ebib/
+Checking out c9a6c728c6610cd4bbabec5d2ba3a1049f8fdfc8
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ebib/
+  to /tmp/ebib-PO67Uz/ebib-20261016.2122/
+    ebib-biblio.el -> ebib-biblio.el
+    ebib-db.el -> ebib-db.el
+    ebib-filters.el -> ebib-filters.el
+    ebib-ivy.el -> ebib-ivy.el
+    ebib-keywords.el -> ebib-keywords.el
+    ebib-notes.el -> ebib-notes.el
+    ebib-reading-list.el -> ebib-reading-list.el
+    ebib-utils.el -> ebib-utils.el
+    ebib.el -> ebib.el
+    org-ebib.el -> org-ebib.el
+    ebib.info -> ebib.info
+Created ebib-20261016.2122.tar containing:
+  ebib-20261016.2122/
+  ebib-20261016.2122/dir
+  ebib-20261016.2122/ebib-biblio.el
+  ebib-20261016.2122/ebib-db.el
+  ebib-20261016.2122/ebib-filters.el
+  ebib-20261016.2122/ebib-ivy.el
+  ebib-20261016.2122/ebib-keywords.el
+  ebib-20261016.2122/ebib-notes.el
+  ebib-20261016.2122/ebib-pkg.el
+  ebib-20261016.2122/ebib-reading-list.el
+  ebib-20261016.2122/ebib-utils.el
+  ebib-20261016.2122/ebib.el
+  ebib-20261016.2122/ebib.info
+  ebib-20261016.2122/org-ebib.el
+Built ebib in 6.517s, finished at 2026-11-17T03:33:50+0000

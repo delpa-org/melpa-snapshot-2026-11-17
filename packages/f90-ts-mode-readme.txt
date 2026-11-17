@@ -1,0 +1,125 @@
+f90-ts-mode is a major mode for editing Fortran 90/2003 (and newer) source
+files, based on Emacs's built-in tree-sitter support (requires Emacs 29+)
+
+Changelog (recent):
+[11-2026]
+  - Alignment rules added for:
+    * io item lists,
+    * result keyword for functions,
+    * extent_specifier for array ranges,
+    * do concurrent statement,
+    * use, public and private statements and
+    * procedure and generic binding lists.
+  - Indentation for old-style labelled do loops added.
+  - Syntax highlighting for keywords goto and continue, and for label
+    references added.
+  - Header in TOC buffer added which shows the name of the associated buffer.
+  - Abbrev expansion at start of `f90-ts-indent-and-complete-line' added.
+    In particular, TAB-based indentation and completion functions also check
+    for abbrev expansion.
+  - Function `f90-ts-install-grammar' added to provide a pinned grammar
+    tested against this version.
+  - Mode adjusted to finally merged grammar variant of the string_literal
+    patch set.  Update grammar to avoid broken setup!
+  - Mode adjusted to grammar changes concerning
+    "block_label_start_expression".
+  - Support for abbreviations through abbrev-mode and transient menu added.
+    New abbrevs can be added via defcustom `f90-ts-extra-abbrevs'.
+  - Alignment rules for case statements of select case blocks added.
+  - Alignment rules for trailing comments within continued lines as well as
+    those following a statement added.
+[10-2026]
+  - Extend/reduce variants for mark region operations based on siblings
+    (first, last, previous, next) added.
+  - Package f90-ts-nav replaced by improved f90-ts-toc providing a side panel with a
+    table of content of a f90 buffer, see `MANUAL.md' for details.  This
+    optional package requires its own use-package statement.
+  - Alignment rules for improved indentation of variable declarations with
+    initialisation added.
+  - Infinite loop caused by `f90-ts-indent-delete-trailing-whitespace' fixed.
+    This happened if region ended at last line without a trailing newline.
+  - Right-align-at-comma options for array literals added,
+    see `f90-ts-indent-array-align'.
+  - Changes required by updates to the proposed string_literal branch added.
+  - Support for new keyword "non_recursive" added (requires new grammar).
+  - Support for new grammar version with a different tree structure in some
+    type related statements (allocate, select type) added.  Both new and old
+    grammar CST variants are supported.
+  - Prefix of ERT test names shortened `f90-ts-mode-test--' (no distinction
+    between std and extra anymore).
+  - Transient menu restructured and decomposed.
+  - Support for hideshow and outline added.
+
+[09-2026]
+  - `f90-ts-mode.el' decomposed into several smaller packages.  Experimental
+    `f90-ts-nav' (tree in fortran menu and tree view in side panel) has been
+    made optional and requires a separate use-package to load it,
+    see `README.md'.
+  - `f90-ts-indent-delete-trailing-whitespace' added to automatically delete
+    trailing whitespace after indentation operation.
+  - Font locking of interface name in deferred procedure declaration fixed.
+  - Trimming of trailing whitespace characters in thing-end-of-X navigation
+    added.
+  - Support for Emacs 29 + tree-sitter 0.20.x added (tested with 29.1, 29.3
+    and tree-sitter 0.20.8).
+  - Fontification of error nodes fixed if line limitting is enabled.
+  - Some issues in comment-region operations fixed (preserve indentation,
+    preserve trailing whitespace where possible, keep existing alignment
+    with keep options, do not operate outside of region boundaries, add
+    missing function `f90-ts-indent-region').
+  - Indentation after uncommenting lines in comment-region operation on
+    commented lines of code containing leading ampersand or statement label
+    fixed.
+  - Missing option `keep-or-continued-line' added to
+    `f90-ts--indent-options-alist' for indentation selection options.
+  - Syntax highlighting, indentation and break/join/fill for string literals
+    improved.  This requires a proposed (but not yet merged) tree-sitter
+    language grammar extension.  See README.md for more details.
+  - Testing with Emacs 31.1 and tree-sitter 0.26 added.
+
+Features:
+  - Almost all statements up to F2023
+  - Syntax highlighting, including syntactically incorrect code
+  - Indentation of lines, regions, multiline statements and structure blocks
+  - Alignment for multiline statements with rotation and other options
+  - Smart end completion
+  - Configurable leading ampersand and statement label positions
+  - Breaking and joining of continued lines
+  - Fill and rebalance operations for lines or regions (with rightmost
+    breakpoint selection or interactive break and join session)
+  - Region selection based on tree-sitter nodes
+  - (Un)commenting regions with configurable prefixes and indentation rules
+  - Special comments like doc strings and separators
+    (syntax highlighting and indentation options)
+  - Keyword highlighting in comments (like TODO, Remark etc.)
+  - OpenMP and preprocessor directives
+  - Coarray keywords and statements
+  - Imenu and a Fortran menu in the menu bar
+  - Navigation (defun, things, Xref)
+  - TOC side panel to show interactive table of content for a f90-ts buffer
+    (optional package)
+  - Hideshow and outline support (support for external treesit-fold is
+    pending)
+
+Features can be found by the fortran menu or a transient popup bound
+to the key C-c C-f.
+
+Installation requires the tree-sitter Fortran grammar, which can be found at
+  https://github.com/stadelmanma/tree-sitter-fortran
+
+Basic setup with use-package:
+
+  (use-package f90-ts-mode
+    :mode ("\\.f90\\'" . f90-ts-mode))
+
+See the README and MANUAL at https://github.com/mscfd/emacs-f90-ts-mode
+for full documentation on options, keybindings, etc.
+
+Bugs and features:
+  https://github.com/mscfd/emacs-f90-ts-mode/issues
+
+Notes:
+- Emacs 31 supports 0.26, and the mode runs in both configurations.
+- Emacs 30.x must be linked against tree-sitter 0.25.x at runtime.
+- Emacs 29 support has been tested with treesitter 0.20.8.
+For details see MANUAL at https://github.com/mscfd/emacs-f90-ts-mode

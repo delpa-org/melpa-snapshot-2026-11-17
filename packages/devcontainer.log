@@ -1,0 +1,18 @@
+
+ • Building package devcontainer
+From https://github.com/johannes-mueller/devcontainer.el
+Updating /mnt/store/melpa/working/devcontainer/
+Checking out f2711c333df4ef644ff59d0d7e58080e670a889a
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/devcontainer/
+  to /tmp/devcontainer-eXBXz5/devcontainer-20261024.2210/
+    devcontainer.el -> devcontainer.el
+    devcontainer.texi -> devcontainer.texi
+Generating devcontainer.info
+Created devcontainer-20261024.2210.tar containing:
+  devcontainer-20261024.2210/
+  devcontainer-20261024.2210/devcontainer-pkg.el
+  devcontainer-20261024.2210/devcontainer.el
+  devcontainer-20261024.2210/devcontainer.info
+  devcontainer-20261024.2210/dir
+Built devcontainer in 5.465s, finished at 2026-11-17T03:30:37+0000

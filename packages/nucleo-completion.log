@@ -1,0 +1,23 @@
+
+ • Building package nucleo-completion
+From https://github.com/kn66/nucleo-completion.el
+Updating /mnt/store/melpa/working/nucleo-completion/
+Checking out 6553110f6ad5cc1754508b5c18e531bedafc3a02
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/nucleo-completion/
+  to /tmp/nucleo-completion-KhU7Jc/nucleo-completion-20261105.2220/
+    nucleo-completion.el -> nucleo-completion.el
+    src => src
+    Cargo.toml -> Cargo.toml
+    Cargo.lock -> Cargo.lock
+Created nucleo-completion-20261105.2220.tar containing:
+  nucleo-completion-20261105.2220/
+  nucleo-completion-20261105.2220/Cargo.lock
+  nucleo-completion-20261105.2220/Cargo.toml
+  nucleo-completion-20261105.2220/nucleo-completion-pkg.el
+  nucleo-completion-20261105.2220/nucleo-completion.el
+  nucleo-completion-20261105.2220/src/
+  nucleo-completion-20261105.2220/src/languages.rs
+  nucleo-completion-20261105.2220/src/lib.rs
+  nucleo-completion-20261105.2220/src/regexp.rs
+Built nucleo-completion in 5.113s, finished at 2026-11-17T04:08:26+0000

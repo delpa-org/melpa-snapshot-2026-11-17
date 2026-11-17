@@ -1,0 +1,14 @@
+
+ • Building package fuff
+From https://github.com/emacsattic/fuff
+Updating /mnt/store/melpa/working/fuff/
+Checking out 278e849913df87bd8756c59382282d87474802c3
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/fuff/
+  to /tmp/fuff-6lpEqn/fuff-20170202.1503/
+    fuff.el -> fuff.el
+Created fuff-20170202.1503.tar containing:
+  fuff-20170202.1503/
+  fuff-20170202.1503/fuff-pkg.el
+  fuff-20170202.1503/fuff.el
+Built fuff in 2.845s, finished at 2026-11-17T03:45:01+0000

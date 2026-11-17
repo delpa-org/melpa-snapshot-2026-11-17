@@ -1,0 +1,14 @@
+
+ • Building package helm-gtags
+From https://github.com/emacsorphanage/helm-gtags
+Updating /mnt/store/melpa/working/helm-gtags/
+Checking out bfafd3d4a7f028d42f3f46c3273eaed930269ec6
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/helm-gtags/
+  to /tmp/helm-gtags-XH5GD3/helm-gtags-20260204.1753/
+    helm-gtags.el -> helm-gtags.el
+Created helm-gtags-20260204.1753.tar containing:
+  helm-gtags-20260204.1753/
+  helm-gtags-20260204.1753/helm-gtags-pkg.el
+  helm-gtags-20260204.1753/helm-gtags.el
+Built helm-gtags in 3.106s, finished at 2026-11-17T03:50:37+0000

@@ -1,0 +1,22 @@
+
+ • Building package package-build
+From https://github.com/melpa/package-build
+Updating /mnt/store/melpa/working/package-build/
+Checking out a929f89d006e0c3dbe68c21f9dae2076ce1071bc
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/package-build/
+  to /tmp/package-build-jBGNRR/package-build-20261101.1116/
+    package-build-badges.el -> package-build-badges.el
+    package-build.el -> package-build.el
+    package-recipe-mode.el -> package-recipe-mode.el
+    package-recipe.el -> package-recipe.el
+    package-build.mk -> package-build.mk
+Created package-build-20261101.1116.tar containing:
+  package-build-20261101.1116/
+  package-build-20261101.1116/package-build-badges.el
+  package-build-20261101.1116/package-build-pkg.el
+  package-build-20261101.1116/package-build.el
+  package-build-20261101.1116/package-build.mk
+  package-build-20261101.1116/package-recipe-mode.el
+  package-build-20261101.1116/package-recipe.el
+Built package-build in 3.677s, finished at 2026-11-17T04:16:18+0000

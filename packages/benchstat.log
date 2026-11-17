@@ -1,0 +1,14 @@
+
+ • Building package benchstat
+From https://github.com/quasilyte/benchstat.el
+Updating /mnt/store/melpa/working/benchstat/
+Checking out fee86f521f22ef0f99564903d63e2023b591fc7f
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/benchstat/
+  to /tmp/benchstat-f2Khio/benchstat-20171014.312/
+    benchstat.el -> benchstat.el
+Created benchstat-20171014.312.tar containing:
+  benchstat-20171014.312/
+  benchstat-20171014.312/benchstat-pkg.el
+  benchstat-20171014.312/benchstat.el
+Built benchstat in 5.133s, finished at 2026-11-17T03:20:33+0000

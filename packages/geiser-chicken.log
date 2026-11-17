@@ -1,0 +1,19 @@
+
+ • Building package geiser-chicken
+From https://codeberg.org/geiser/chicken
+Updating /mnt/store/melpa/working/geiser-chicken/
+Checking out b019678711ef29a06a049ec7f80598c24cc74a51
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/geiser-chicken/
+  to /tmp/geiser-chicken-lCE8r5/geiser-chicken-20261106.1448/
+    geiser-chicken.el -> geiser-chicken.el
+    src => src
+Created geiser-chicken-20261106.1448.tar containing:
+  geiser-chicken-20261106.1448/
+  geiser-chicken-20261106.1448/geiser-chicken-pkg.el
+  geiser-chicken-20261106.1448/geiser-chicken.el
+  geiser-chicken-20261106.1448/src/
+  geiser-chicken-20261106.1448/src/geiser/
+  geiser-chicken-20261106.1448/src/geiser/chicken.scm
+  geiser-chicken-20261106.1448/src/geiser/chicken4.scm
+Built geiser-chicken in 3.237s, finished at 2026-11-17T03:45:27+0000

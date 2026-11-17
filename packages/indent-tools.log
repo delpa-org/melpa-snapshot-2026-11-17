@@ -1,0 +1,16 @@
+
+ • Building package indent-tools
+From https://gitlab.com/emacs-stuff/indent-tools
+Updating /mnt/store/melpa/working/indent-tools/
+Checking out ebec5797277b02f504ece5f79270835e110592b0
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/indent-tools/
+  to /tmp/indent-tools-QhsB7P/indent-tools-20261105.1259/
+    indent-tools-indentation-of.el -> indent-tools-indentation-of.el
+    indent-tools.el -> indent-tools.el
+Created indent-tools-20261105.1259.tar containing:
+  indent-tools-20261105.1259/
+  indent-tools-20261105.1259/indent-tools-indentation-of.el
+  indent-tools-20261105.1259/indent-tools-pkg.el
+  indent-tools-20261105.1259/indent-tools.el
+Built indent-tools in 8.411s, finished at 2026-11-17T03:54:17+0000

@@ -1,0 +1,16 @@
+
+ • Building package helm-taskswitch
+From https://github.com/bdc34/helm-taskswitch
+Updating /mnt/store/melpa/working/helm-taskswitch/
+Checking out 2337812ad304a1a02bf7215628fdef4ebb0c27a1
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/helm-taskswitch/
+  to /tmp/helm-taskswitch-b8vulD/helm-taskswitch-20261104.1509/
+    helm-taskswitch-browser.el -> helm-taskswitch-browser.el
+    helm-taskswitch.el -> helm-taskswitch.el
+Created helm-taskswitch-20261104.1509.tar containing:
+  helm-taskswitch-20261104.1509/
+  helm-taskswitch-20261104.1509/helm-taskswitch-browser.el
+  helm-taskswitch-20261104.1509/helm-taskswitch-pkg.el
+  helm-taskswitch-20261104.1509/helm-taskswitch.el
+Built helm-taskswitch in 3.799s, finished at 2026-11-17T03:51:30+0000

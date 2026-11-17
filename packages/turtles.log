@@ -1,0 +1,24 @@
+
+ • Building package turtles
+From https://github.com/szermatt/turtles
+Updating /mnt/store/melpa/working/turtles/
+Checking out bf85a56c96bd35320ef509cfa2872c9db9943919
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/turtles/
+  to /tmp/turtles-dheHRQ/turtles-20261020.1143/
+    turtles-compat.el -> turtles-compat.el
+    turtles-instance.el -> turtles-instance.el
+    turtles-io.el -> turtles-io.el
+    turtles.el -> turtles.el
+    turtles.texi -> turtles.texi
+Generating turtles.info
+Created turtles-20261020.1143.tar containing:
+  turtles-20261020.1143/
+  turtles-20261020.1143/dir
+  turtles-20261020.1143/turtles-compat.el
+  turtles-20261020.1143/turtles-instance.el
+  turtles-20261020.1143/turtles-io.el
+  turtles-20261020.1143/turtles-pkg.el
+  turtles-20261020.1143/turtles.el
+  turtles-20261020.1143/turtles.info
+Built turtles in 6.174s, finished at 2026-11-17T04:34:23+0000

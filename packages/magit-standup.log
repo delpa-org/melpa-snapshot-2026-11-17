@@ -1,0 +1,14 @@
+
+ • Building package magit-standup
+From https://github.com/function-artisans/magit-standup
+Updating /mnt/store/melpa/working/magit-standup/
+Checking out 871d75e9e3256226f9a9009da5b03cd34d6c32a1
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/magit-standup/
+  to /tmp/magit-standup-uUHict/magit-standup-20261110.1909/
+    magit-standup.el -> magit-standup.el
+Created magit-standup-20261110.1909.tar containing:
+  magit-standup-20261110.1909/
+  magit-standup-20261110.1909/magit-standup-pkg.el
+  magit-standup-20261110.1909/magit-standup.el
+Built magit-standup in 3.716s, finished at 2026-11-17T04:02:33+0000

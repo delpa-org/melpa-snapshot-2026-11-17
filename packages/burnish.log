@@ -1,0 +1,18 @@
+
+ • Building package burnish
+From https://github.com/kickingvegas/burnish
+Updating /mnt/store/melpa/working/burnish/
+Checking out aa7dc231a3f6d9f52a7bf3ee22313a42808d3eaf
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/burnish/
+  to /tmp/burnish-mg5QpS/burnish-20261109.617/
+  ! lisp/burnish.el -> burnish.el
+  ! docs/burnish.texi -> burnish.texi
+Generating burnish.info
+Created burnish-20261109.617.tar containing:
+  burnish-20261109.617/
+  burnish-20261109.617/burnish-pkg.el
+  burnish-20261109.617/burnish.el
+  burnish-20261109.617/burnish.info
+  burnish-20261109.617/dir
+Built burnish in 6.608s, finished at 2026-11-17T03:22:24+0000

@@ -1,0 +1,14 @@
+
+ • Building package oboe
+From https://github.com/gynamics/oboe.el
+Updating /mnt/store/melpa/working/oboe/
+Checking out b81cc19f474ed33a10958853f503428d271d1c2c
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/oboe/
+  to /tmp/oboe-zZgr0t/oboe-20260816.1143/
+    oboe.el -> oboe.el
+Created oboe-20260816.1143.tar containing:
+  oboe-20260816.1143/
+  oboe-20260816.1143/oboe-pkg.el
+  oboe-20260816.1143/oboe.el
+Built oboe in 3.051s, finished at 2026-11-17T04:09:45+0000

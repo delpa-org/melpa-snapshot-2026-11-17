@@ -1,0 +1,32 @@
+
+ • Building package phony
+From https://github.com/ErikPrantare/phony.el
+Updating /mnt/store/melpa/working/phony/
+Checking out b2308e779fb398ac93ba61c5898d00843f89dd85
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/phony/
+  to /tmp/phony-EtTOhz/phony-20261115.1808/
+    phony-ag.el -> phony-ag.el
+    phony-core.el -> phony-core.el
+    phony-experimental.el -> phony-experimental.el
+    phony-model.el -> phony-model.el
+    phony-parser.el -> phony-parser.el
+    phony-pattern.el -> phony-pattern.el
+    phony-serialize-syntax.el -> phony-serialize-syntax.el
+    phony-stdlib.el -> phony-stdlib.el
+    phony-talon.el -> phony-talon.el
+    phony.el -> phony.el
+Created phony-20261115.1808.tar containing:
+  phony-20261115.1808/
+  phony-20261115.1808/phony-ag.el
+  phony-20261115.1808/phony-core.el
+  phony-20261115.1808/phony-experimental.el
+  phony-20261115.1808/phony-model.el
+  phony-20261115.1808/phony-parser.el
+  phony-20261115.1808/phony-pattern.el
+  phony-20261115.1808/phony-pkg.el
+  phony-20261115.1808/phony-serialize-syntax.el
+  phony-20261115.1808/phony-stdlib.el
+  phony-20261115.1808/phony-talon.el
+  phony-20261115.1808/phony.el
+Built phony in 3.931s, finished at 2026-11-17T04:17:50+0000
